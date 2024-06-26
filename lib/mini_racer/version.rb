@@ -2,5 +2,5 @@
 
 module MiniRacer
   VERSION = "0.6.3"
-  LIBV8_NODE_VERSION = "~> 16.10.0.0"
+  LIBV8_NODE_VERSION = "~> 16.17.0.0"
 end
